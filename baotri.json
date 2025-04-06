@@ -1,0 +1,13 @@
+{
+    "help": false,
+    "method": false,
+    "https-normal": false,
+    "https-bypass": false,
+    "https-destroy": false,
+    "https-star": false,
+    "attack": false,
+    "addvip": false,
+    "rmvip": false,
+    "plan": false,
+    "baotritatca": false
+}

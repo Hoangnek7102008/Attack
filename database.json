@@ -1,0 +1,16 @@
+{
+    "add_you_id": {
+        "vip": true,
+        "expiry": "2025-04-01",
+        "admin": false,
+        "time": "120"
+    },
+    "7567975053": {
+        "vip": true,
+        "expiry": "2040-06-10",
+        "admin": true,
+        "time": "120",
+        "cooldown": "0",
+        "last_attack": 1743411825.292777
+    }
+}
